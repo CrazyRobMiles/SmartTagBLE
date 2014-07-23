@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SUPERSURFACE</Machine>
+    <WindowsUser>Rob</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>5ab2d38b-1902-428d-8fdc-6f15909c314e</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Rob\Documents\Visual Studio 2013\Projects\SensorTagReader\SensorTagReader\SensorTagReader.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>EF294DF746B78639CF57AC7B722D220AFF78FB7A8FF53C0F637F2A6E2487A874</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>5ab2d38b-1902-428d-8fdc-6f15909c314e_1.0.0.0_neutral__0rbfcm4j9s1vw</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>5ab2d38b-1902-428d-8fdc-6f15909c314e_0rbfcm4j9s1vw!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>5ab2d38b-1902-428d-8fdc-6f15909c314e</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Rob</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Rob\Documents\Visual Studio 2013\Projects\SensorTagReader\SensorTagReader\SensorTagReader.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-07-23T12:55:44.475</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Rob\Documents\Visual Studio 2013\Projects\SensorTagReader\SensorTagReader\SensorTagReader.Windows\bin\Debug\SensorTagReader.Windows.exe">
+      <PackagePath>SensorTagReader.Windows.exe</PackagePath>
+      <Modified>2014-07-23T13:25:48.445</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rob\Documents\Visual Studio 2013\Projects\SensorTagReader\SensorTagReader\SensorTagReader.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-12T20:06:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rob\Documents\Visual Studio 2013\Projects\SensorTagReader\SensorTagReader\SensorTagReader.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-12T20:06:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rob\Documents\Visual Studio 2013\Projects\SensorTagReader\SensorTagReader\SensorTagReader.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-12T20:06:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rob\Documents\Visual Studio 2013\Projects\SensorTagReader\SensorTagReader\SensorTagReader.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-12T20:06:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rob\Documents\Visual Studio 2013\Projects\SensorTagReader\SensorTagReader\SensorTagReader.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-07-23T12:55:43.978</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rob\Documents\Visual Studio 2013\Projects\SensorTagReader\SensorTagReader\SensorTagReader.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-07-23T13:24:04.547</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rob\Documents\Visual Studio 2013\Projects\SensorTagReader\SensorTagReader\SensorTagReader.Windows\bin\Debug\SensorTagReader.Windows.xr.xml">
+      <PackagePath>SensorTagReader.Windows.xr.xml</PackagePath>
+      <Modified>2014-07-21T13:18:29.042</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rob\Documents\Visual Studio 2013\Projects\SensorTagReader\SensorTagReader\SensorTagReader.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-07-23T12:55:44.305</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,1 @@
+C:\Users\Rob\Documents\Visual Studio 2013\Projects\SensorTagReader\SensorTagReader\SensorTagReader.Windows\SensorTagReader.Windows.csproj;neutral
